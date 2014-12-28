@@ -1,0 +1,11 @@
+syntax: glob
+__pycache__/unittests.cpython-34.pyc
+.coverage
+__pycache__/bindhousetoint.cpython-34.pyc
+__pycache__/clusterpoints.cpython-34.pyc
+__pycache__/convertfromconcorde.cpython-34.pyc
+__pycache__/converttoconcorde.cpython-34.pyc
+__pycache__/plot_clustering.cpython-34.pyc
+__pycache__/plot_mst.cpython-34.pyc
+old-python/bindpointstoroad.py
+old-python/ShapeFileTes.py
